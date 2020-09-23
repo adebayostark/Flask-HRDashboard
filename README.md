@@ -1,4 +1,4 @@
-# Company Management Web Application
+# Management Web Application
 
 A Web application for managing business resources. It is built with python web framework - Flask
 
